@@ -1,0 +1,46 @@
+!! fonts
+!urxvt.font:	xft:droid sans mono:pixelsize=12
+xft*antialias:	true
+xft*hinting:	true
+xft*hintstyle:	hintmedium
+xft*rgba:		rgba
+urxvt*scrollBar: false
+
+!USE THIS
+URxvt*font:                 -*-terminus-*-*-*-*-12-*-*-*-*-*-*-*
+URxvt*boldFont:             -*-terminus-*-*-*-*-12-*-*-*-*-*-*-*
+
+URxvt*background: #151515
+
+*foreground: #D7D0C7
+*background: #151515
+!black
+URxvt*color0:     #1F1F1F
+URxvt*color8:     #404040
+!red
+URxvt*color1:     #911C19
+URxvt*color9:     #9B2724
+!green
+URxvt*color2:     #586B33
+URxvt*color10:    #5E793F
+!yellow
+URxvt*color3:     #B1B863
+URxvt*color11:    #C0CA6E
+!blue
+URxvt*color4:     #3F5489
+URxvt*color12:    #404CB3
+!magenta
+URxvt*color5:     #82345F
+URxvt*color13:    #B63B9F
+!cyan
+URxvt*color6:     #547F72
+URxvt*color14:    #789CA0
+!white
+URxvt*color7:     #dddddd
+URxvt*color15:    #dddddd
+
+! Cursor
+URxvt.cursorBlink:	true
+URxvt.cursorColor:	#00FF00
+URxvt.cursorUnderline:	false
+
