@@ -1,0 +1,25 @@
+File browsing:
+- command-t : git://github.com/wincent/Command-T.git
+- NERDtree : git://github.com/scrooloose/nerdtree.git
+- vimshell : git://github.com/Shougo/vimshell.git
+
+Tools:
+- fugitive : git://github.com/tpope/vim-fugitive.git
+- nerdcommenter : git://github.com/scrooloose/nerdcommenter.git
+- vinarise : git://github.com/Shougo/vinarise.git
+- gundo : git://github.com/sjl/gundo.vim.git
+- ack : git://github.com/mileszs/ack.vim.git
+
+Usability:
+- powerline : git://github.com/Lokaltog/vim-powerline.git
+- pathogen : git://github.com/tpope/vim-pathogen.git
+- rename : git://github.com/ReekenX/vim-rename2.git
+- unimpaired : git://github.com/tpope/vim-unimpaired.git
+
+Programming helpers:
+- tagbar : git://github.com/majutsushi/tagbar
+- tabular : git://github.com/godlygeek/tabular.git
+- textobj : git://github.com/kana/vim-textobj-user.git : git://github.com/nelstrom/vim-textobj-rubyblock.git
+- syntastic : git://github.com/scrooloose/syntastic.git
+- nerdcommenter : git://github.com/scrooloose/nerdcommenter.git
+
