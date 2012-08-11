@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/src/linux-headers-3.2.0-20-generic/include/config/usb/xhci'
+let g:netrw_dirhist_2='/usr/src/linux-headers-3.2.0-20-generic/include/config/usb'
+let g:netrw_dirhist_3='/usr/src/linux-headers-3.2.0-20-generic/include/config/usb/xhci'
+let g:netrw_dirhist_4='/usr/local/bin'
+let g:netrw_dirhist_5='/home/aaboagye/.vim'
+let g:netrw_dirhist_6='/home/aaboagye'
+let g:netrw_dirhist_7='/home'
+let g:netrw_dirhist_8='/home/aaboagye/.config/tint2'
+let g:netrw_dirhist_9='/home/aaboagye/.config/openbox'
