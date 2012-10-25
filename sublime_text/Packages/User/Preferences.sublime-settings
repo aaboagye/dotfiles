@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Inconsolata",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Git"
+	],
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": false,
+	"scroll_speed": 0.5,
+	"theme": "Soda Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
